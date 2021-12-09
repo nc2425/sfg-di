@@ -1,4 +1,4 @@
-package com.spring.sfgdi.services;
+package org.example.pets;
 
 public interface PetService {
 
